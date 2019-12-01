@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7e4574d-ee37-4f64-b6ad-a07a5ad8e8ca" name="Default Changelist" comment="2018/1">
-      <change afterPath="$PROJECT_DIR$/solutions/2018/day_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inputs/2018/day1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inputs/day1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../inputs/input_d1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
-    </list>
+    <list default="true" id="d7e4574d-ee37-4f64-b6ad-a07a5ad8e8ca" name="Default Changelist" comment="2018/1" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/template.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+            <state relative-caret-position="352">
+              <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
               <folding>
                 <marker date="1575218790622" expanded="true" signature="132:163" ph="..." />
               </folding>
@@ -153,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1006" />
@@ -418,7 +412,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1015" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1015" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.14963119" />
@@ -604,8 +598,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+        <state relative-caret-position="352">
+          <caret line="16" column="40" lean-forward="true" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding>
             <marker date="1575218790622" expanded="true" signature="132:163" ph="..." />
           </folding>
