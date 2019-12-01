@@ -1,21 +1,18 @@
 from starter import Starter, MyTestCase, Solution
 
-
 def fun_solution1(input):
     return None #str(result)
 
 def fun_solution2(input):
     return None #str(result)
 
-
-
 def test_solution1(input):
     solution1 = Solution(fun_solution1)
     # solution1.add_test_case(MyTestCase([],""))
-    # solution2.add_test_case(MyTestCase([],""))
-    # solution2.add_test_case(MyTestCase([],""))
-    # solution2.add_test_case(MyTestCase([],""))
-    # solution2.add_test_case(MyTestCase([],""))
+    # solution1.add_test_case(MyTestCase([],""))
+    # solution1.add_test_case(MyTestCase([],""))
+    # solution1.add_test_case(MyTestCase([],""))
+    # solution1.add_test_case(MyTestCase([],""))
 
     solution1_test = solution1.test_me()
 
